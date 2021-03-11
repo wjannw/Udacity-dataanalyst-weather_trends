@@ -1,7 +1,7 @@
 # Date Created
-This project was created on Friday 5 February 2021
+This project was created on Monday 1 February 2021
 
-# Investigate a dataset
+# Explore Weather Trends
 
 # Project introduction
 This forms project 1 of the Udacity Data Analyst Nanodegree Progrgam
